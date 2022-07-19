@@ -6,7 +6,7 @@
     "test": "npm run lint && mocha",
     "lint": "node node_modules/eslint/bin/eslint.js ./src"
   },
-  "author": "aorgish, mikhama",
+  "author": "Andrey Terekhov",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^6.6.0",
